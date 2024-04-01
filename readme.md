@@ -45,5 +45,5 @@ yarn run start
 This will open your default browser with the different example pages, check the 'viewer' link for a simple test viewer.
 
 ## Notes
-
+## Private repository, modified, do not use as reference
 <a name="footnote1">1</a>: Certification refers to official medical software certification that are issued by the FDA or EU Notified Bodies. The sentence here serves as a reminder that the Dicom Web Viewer is not ceritifed, and comes with no warranties (and no possible liability of its authors) as stated in the [license](license.txt). To learn more about standards used in certification, see the [wikipedia Medical software](https://en.wikipedia.org/wiki/Medical_software) page.
